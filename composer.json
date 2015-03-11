@@ -1,0 +1,16 @@
+{
+    "name": "alexvait/functions",
+    "description": "Simple functions",
+    "authors": [
+        {
+            "name": "Alex Vait",
+            "email": "vait@lieferando.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "Math": "src/",
+        }
+    }
+}
